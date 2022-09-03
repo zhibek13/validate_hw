@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Asus Gaming PC",
+    "category_id": 1,
+    "price": 650,
+    "QR": "1C650P1I"
+  },
+  {
+    "id": 2,
+    "name": "Acer Gaming",
+    "category_id": 1,
+    "price": 750,
+    "QR": "1C750P2I"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Y80",
+    "category_id": 2,
+    "price": 550,
+    "QR": "2C550P3I"
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi Redmi Note 10",
+    "category_id": 3,
+    "price": 350,
+    "QR": "3C350P4I"
+  }
+]

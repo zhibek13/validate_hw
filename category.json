@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "PC",
+    "description": "Desktop Personal Computers"
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "description": "Mobile Personal Computers"
+  },
+  {
+    "id": 3,
+    "name": "Smartphones",
+    "description": "Mobile Phones"
+  }
+]
